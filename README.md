@@ -76,17 +76,14 @@ generated using the preprocessing pipeline described in the notebook.
 
 ## Repository Structure
 
+```text
 audio-deepfake-equivariant/
-
 ├── README.md
-
 ├── LICENSE
-
 ├── requirements.txt
-
 └── notebooks/
-
-└── main_experiment.ipynb
+│   └── main_experiment.ipynb
+```
 
 ---
 
