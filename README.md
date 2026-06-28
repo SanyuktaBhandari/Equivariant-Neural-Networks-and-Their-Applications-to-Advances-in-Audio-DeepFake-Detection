@@ -116,7 +116,7 @@ See [LICENSE](LICENSE) for full details.
 
 If you reference this work, please cite:
 
-Bhandari, S. (2025). Equivariant Neural Networks and Their Applications
+Bhandari, S. (2026). Equivariant Neural Networks and Their Applications
 to Advances in Audio Deepfake Detection. 
 St. Xavier's College (Autonomous), Kolkata.
 
