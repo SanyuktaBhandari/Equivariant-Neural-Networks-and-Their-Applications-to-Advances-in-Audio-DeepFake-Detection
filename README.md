@@ -82,7 +82,7 @@ audio-deepfake-equivariant/
 ├── LICENSE
 ├── requirements.txt
 └── notebooks/
-│   └── main_experiment.ipynb
+    └── main_experiment.ipynb
 ```
 
 ---
