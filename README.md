@@ -1,0 +1,1 @@
+# Equivariant-Neural-Networks-and-Their-Applications-to-Advances-in-Audio-DeepFake-Detection
