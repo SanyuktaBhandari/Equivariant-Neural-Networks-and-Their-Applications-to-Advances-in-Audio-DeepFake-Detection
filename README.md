@@ -77,10 +77,15 @@ generated using the preprocessing pipeline described in the notebook.
 ## Repository Structure
 
 audio-deepfake-equivariant/
+
 ├── README.md
+
 ├── LICENSE
+
 ├── requirements.txt
+
 └── notebooks/
+
 └── main_experiment.ipynb
 
 ---
@@ -115,7 +120,7 @@ See [LICENSE](LICENSE) for full details.
 If you reference this work, please cite:
 
 Bhandari, S. (2025). Equivariant Neural Networks and Their Applications
-to Advances in Audio Deepfake Detection. MSc Dissertation,
+to Advances in Audio Deepfake Detection. 
 St. Xavier's College (Autonomous), Kolkata.
 
 ---
